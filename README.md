@@ -1,3 +1,3 @@
 # demo-tutorial
 <p>This is my learning repo</p>
-<div><b>Author - Sagar Satyarthi Mishra</b></div>
+<div><b>Author - Sagar Satyarthi Mishra (Java Developer)</b></div>
